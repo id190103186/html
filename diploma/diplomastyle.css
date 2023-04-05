@@ -1,0 +1,47 @@
+body{
+	margin: 0 auto;
+	background-color: whitesmoke;
+}
+.header{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	padding: 10px 50px;
+}
+
+.slader{
+	margin: 10px;
+	display: flex;
+	justify-content: space-between;
+	padding: 10px 0px; 
+}
+
+.icon-arrow{
+	margin-top:180px;
+}
+
+.container{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 100px;
+
+}
+.card{
+	padding: 0px 10px;
+}
+
+.man{
+	margin-top: 150px;
+	margin-left: 50px;
+
+}
+
+.group{
+	margin-top: 180px;
+
+}
+
+.frame{
+	text-align: center;
+	margin-top: 20px;
+}
